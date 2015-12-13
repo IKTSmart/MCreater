@@ -1,2 +1,12 @@
-OC&Swift 模型创建助手
-Created Object-C or Swift Model Helper
+# Object-C&Swift 模型创建助手 
+
+**Mcreater**: 可以将json数据生成你需要的模型文件，直接添加到工程中使用。
+- **数据** :支持url获取json和直接copy；
+- **支持语言** ：支持Object-C和Swift两种语言模型生成；
+- **嵌套模型** ：嵌套模型可勾选category进行分类生成多个相应模型。
+- **自定义类名** ：单个模型生成可自定义类名，分类生成模型嵌套模型名字由字段决定。
+
+###  期待
+- 如果在使用过程中遇到BUG，希望你能Issues我。
+- 如果在使用过程中发现功能不够用，希望你能Issues我。谢谢
+- 邮箱：<5786117@qq.com>
