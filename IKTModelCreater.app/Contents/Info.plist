@@ -43,7 +43,7 @@
 	<key>DTXcodeBuild</key>
 	<string>7B91b</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.7</string>
+	<string>10.8</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
